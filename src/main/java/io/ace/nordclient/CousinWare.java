@@ -3,7 +3,6 @@ package io.ace.nordclient;
 import io.ace.nordclient.command.commands.Xray;
 import io.ace.nordclient.command.commands.*;
 import io.ace.nordclient.cousingui.CousinWareGui;
-import io.ace.nordclient.event.EventLaunch;
 import io.ace.nordclient.event.EventProcessor;
 import io.ace.nordclient.gui.ClickGUI2;
 import io.ace.nordclient.hacks.client.ClickGuiHack;
